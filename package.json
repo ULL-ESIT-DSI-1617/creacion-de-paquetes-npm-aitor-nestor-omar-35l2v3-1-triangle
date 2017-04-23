@@ -1,5 +1,5 @@
 {
-  "name": "creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-triangle",
+  "name": "ull-shape-triangle-aitor-nestor-omar-35l2v3-1",
   "version": "1.0.0",
   "description": "Clase triangulo que hereda de una clase Figura",
   "main": "index.js",
@@ -11,13 +11,14 @@
     "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-triangle.git"
   },
   "keywords": [],
-  "author": "nestor",
+  "author": "nestor-gm",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-triangle/issues"
   },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-triangle#readme",
   "dependencies": {
+    "gulp-shell": "^0.6.3",
     "mocha": "^3.2.0",
     "should": "^11.2.1"
   },
