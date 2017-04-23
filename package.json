@@ -1,0 +1,27 @@
+{
+  "name": "creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-triangle",
+  "version": "1.0.0",
+  "description": "Clase triangulo que hereda de una clase Figura",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --require should"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-triangle.git"
+  },
+  "keywords": [],
+  "author": "nestor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-triangle/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-triangle#readme",
+  "dependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
