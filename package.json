@@ -1,6 +1,6 @@
 {
-  "name": "ull-shape-triangle-aitor-nestor-omar-35l2v3-1",
-  "version": "2.0.0",
+  "name": "@aitor-nestor-omar/ull-shape-triangle",
+  "version": "1.0.0",
   "description": "Clase triangulo que hereda de una clase Figura",
   "main": "index.js",
   "scripts": {
