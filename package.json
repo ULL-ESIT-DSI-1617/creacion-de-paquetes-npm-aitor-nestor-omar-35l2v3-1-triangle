@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-triangle#readme",
   "dependencies": {
+    "@aitor-nestor-omar/ull-shape": "^1.1.0",
     "gulp-shell": "^0.6.3",
     "mocha": "^3.2.0",
-    "should": "^11.2.1",
-    "ull-shape-aitor-nestor-omar-35l2v3-1": "^1.0.3"
+    "should": "^11.2.1"
   },
   "devDependencies": {
     "gulp": "^3.9.1"
