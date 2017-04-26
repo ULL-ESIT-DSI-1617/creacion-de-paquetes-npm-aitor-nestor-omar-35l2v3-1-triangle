@@ -45,7 +45,7 @@ $ npm run doc
 ```
 * Para ver la documentación, accederemos a los ```Settings``` del repositorio, al apartado de ```GitHub Pages``` y le diremos que el ```Source``` viene de ```master branch /docs folder```, guardamos y se desplegará nuestra documentación realizada con ```documentation.js``` en ```GitHub Pages```.
 
-![documentation.js en GH Pages](http://i.imgur.com/NaRweaQ.png)
+![documentation.js en GH Pages](https://i.imgur.com/7xsYgKD.png)
 
 * Enlace a la documentación en [GH Pages](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-triangle/)
 
