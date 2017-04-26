@@ -4,7 +4,8 @@
   "description": "Clase triangulo que hereda de una clase Figura",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --require should"
+    "test": "./node_modules/mocha/bin/mocha --require should",
+    "doc": "documentation build ./lib/triangle.js -f html -o docs"
   },
   "repository": {
     "type": "git",
